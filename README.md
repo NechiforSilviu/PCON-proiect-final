@@ -1,4 +1,4 @@
-# Egalizator controlat cu comenzi vocale
+# LOW PASS THE MIC - Egalizator controlat cu comenzi vocale
 
 Am implementat filtrele cascadate si am gasit un script in Python care realizeaza voice recognition. Pe parcurs, daca este nevoie sa complic tema, pot implementa de la zero anumite componente (spre exemplu: calculul coeficientilor, scriptul de voice recognition etc.).
 
